@@ -95,20 +95,20 @@ const darshan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Darshan124-get&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan124-get&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan124-get&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan124-get&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -118,7 +118,7 @@ const darshan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darshan&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Darshan124-get&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -155,19 +155,19 @@ const darshan = {
 <div align="center">
 
 ### 🌟 Project 1: E-Commerce Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan&repo=ecommerce-platform&theme=tokyonight)](https://github.com/darshan/ecommerce-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darshan124-get&repo=ecommerce-platform&theme=tokyonight)](https://github.com/Darshan124-get/ecommerce-platform)
 
 **Tech Stack:** React, Node.js, MongoDB, Stripe API
 **Features:** Real-time chat, Payment integration, Admin dashboard
 
 ### 🎮 Project 2: Task Management App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan&repo=task-manager&theme=tokyonight)](https://github.com/darshan/task-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darshan124-get&repo=task-manager&theme=tokyonight)](https://github.com/Darshan124-get/task-manager)
 
 **Tech Stack:** Vue.js, Express, PostgreSQL, Socket.io
 **Features:** Real-time collaboration, Drag & drop, Team management
 
 ### 📱 Project 3: Mobile Weather App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darshan&repo=weather-app&theme=tokyonight)](https://github.com/darshan/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darshan124-get&repo=weather-app&theme=tokyonight)](https://github.com/Darshan124-get/weather-app)
 
 **Tech Stack:** React Native, Redux, Weather API
 **Features:** Location-based weather, 7-day forecast, Push notifications
@@ -180,7 +180,7 @@ const darshan = {
 
 <div align="center">
 
-![Snake animation](https://github.com/darshan/darshan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Darshan124-get/Darshan124-get/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -288,7 +288,7 @@ const darshan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/darshan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshan124-get)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://darshan.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan@example.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darshan)
@@ -316,7 +316,7 @@ If you like what I do and want to support my work, you can:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshan&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Darshan124-get&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -324,7 +324,7 @@ If you like what I do and want to support my work, you can:
 
 <div align="center">
 
-### ⭐ From [Darshan](https://github.com/darshan)
+### ⭐ From [Darshan](https://github.com/Darshan124-get)
 
 **"Code is poetry written in logic"** ✨
 
