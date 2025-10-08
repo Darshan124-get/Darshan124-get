@@ -30,7 +30,7 @@ const darshan = {
         mobile: ["React Native", "Flutter", "Ionic"],
         devOps: ["Docker", "Kubernetes", "AWS", "Azure", "GCP"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        tools: ["Git", "VS Code", "IntelliJ", "Postman", "Figma"]
+        tools: ["Git", "VS Code",  "Postman", "flutter","docker"]
     },
     architecture: ["Microservices", "RESTful APIs", "GraphQL", "Serverless"],
     funFact: "I turn coffee into code and bugs into features! ☕️🐛➡️✨"
